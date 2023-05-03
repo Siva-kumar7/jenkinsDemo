@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM nginx:latest
 ADD ./devopsIQ /var/www/html/devopsIQ
